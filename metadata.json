@@ -1,0 +1,6 @@
+{
+  "name": "Fundraising Mentor & Investor Hub",
+  "description": "A comprehensive fundraising platform containing 100 historical pitch decks that raised $1B+, a searchable database of 5,000+ investors with CRM lead tracking, and a server-side AI Fundraising Mentor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
